@@ -1,2 +1,2 @@
 ﻿# monster-attack
-![alt_text](https://raw.githubusercontent.com/doannguyen263/monster-attack/master/image/attack.png)
+![alt_text](https://raw.githubusercontent.com/doannguyen263/monster-attack/master/screenshot.png)
